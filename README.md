@@ -4,7 +4,7 @@
 
 🚀 **About Me**
 
-* B.Tech ICT student at DA-IICT (CPI: 8.15)
+* B.Tech ICT student at DA-IICT
 * Interested in Recommendation Systems, Machine Learning, Backend Development, and Data Engineering
 * Strong foundation in Data Structures & Algorithms ans CS Fundamentals
 
@@ -88,10 +88,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yashasvi-jadav">
+  <a href="[https://linkedin.com/in/yashasvi-jadav](https://www.linkedin.com/in/yashasvi-jadav-94732b263/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:202301069@dau.ac.in">
+  <a href="mailto:yashasviijadav@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
