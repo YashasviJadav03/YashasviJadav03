@@ -29,42 +29,6 @@ Git • GitHub • Linux • Jupyter Notebook
 
 ---
 
-## 🚀 Featured Projects
-
-### Trust-Aware Review-Based Product Recommendation
-
-* Processed 883K+ Amazon reviews using ML and trust-aware ranking techniques
-* Improved recommendation quality with Bayesian trust-weighted scoring
-* Built an end-to-end recommendation pipeline with explainable rankings
-
-### Movie Recommendation System
-
-* Implemented content-based, collaborative, and hybrid recommendation models
-* Applied TF-IDF and SVD for personalized recommendations
-* Deployed an interactive Streamlit application
-
-### NextChapter – AI-Powered Digital Library
-
-* Built a full-stack platform using React, FastAPI, and Supabase
-* Added AI-powered content moderation and recommendation features
-* Implemented authentication, reading analytics, and PDF management
-
-### Beauty Salon Database Management System
-
-* Designed a BCNF-normalized PostgreSQL database
-* Developed analytical SQL queries for business insights
-
----
-
-## 📚 Currently Learning
-
-* Advanced Data Structures & Algorithms
-* System Design
-* Scalable Backend Systems
-* Applied Machine Learning
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -90,9 +54,3 @@ Git • GitHub • Linux • Jupyter Notebook
 </p>
 
 ---
-
-## ✨ Philosophy
-
-> <i>Building intelligent systems that solve real-world problems.</i>
-
-⭐ Feel free to explore my repositories and connect with me!
