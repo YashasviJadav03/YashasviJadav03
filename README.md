@@ -12,22 +12,78 @@
 
 ## 🛠️ Technical Skills
 
-**Languages**
-Python • C++ • SQL • JavaScript
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
 
-**Machine Learning & Data**
-Scikit-Learn • XGBoost • Pandas • NumPy • TF-IDF • Recommendation Systems • EDA
+<img src="https://img.shields.io/badge/Python-4F6D9A?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-4F6D9A?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4F6D9A?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-4F6D9A?style=for-the-badge&logo=javascript&logoColor=white">
 
-**Backend & Development**
-FastAPI • Streamlit • REST APIs • React
+</td>
+</tr>
 
-**Databases**
-PostgreSQL • Supabase
+<tr>
+<td><b>Machine Learning & Data</b></td>
+<td>
 
-**Tools**
-Git • GitHub • Linux • Jupyter Notebook
+<img src="https://img.shields.io/badge/Scikit--Learn-9B59B6?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/XGBoost-9B59B6?style=for-the-badge">
+<img src="https://img.shields.io/badge/Pandas-9B59B6?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-9B59B6?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/TF--IDF-9B59B6?style=for-the-badge">
+<img src="https://img.shields.io/badge/Recommendation_Systems-9B59B6?style=for-the-badge">
+<img src="https://img.shields.io/badge/EDA-9B59B6?style=for-the-badge">
 
----
+</td>
+</tr>
+
+<tr>
+<td><b>Backend & Development</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/FastAPI-16A085?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-16A085?style=for-the-badge&logo=streamlit&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td><b>Databases</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/PostgreSQL-6AB04C?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-6AB04C?style=for-the-badge&logo=supabase&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Git-E67E22?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-E67E22?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-E67E22?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-E67E22?style=for-the-badge&logo=jupyter&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td><b>Core CS Fundamentals</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-34495E?style=for-the-badge">
+<img src="https://img.shields.io/badge/OOP-34495E?style=for-the-badge">
+<img src="https://img.shields.io/badge/DBMS-34495E?style=for-the-badge">
+<img src="https://img.shields.io/badge/Computer_Networks-34495E?style=for-the-badge">
+
+</td>
+</tr>
+</table>---
 
 ## 🌐 Connect With Me
 
