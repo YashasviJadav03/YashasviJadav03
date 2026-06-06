@@ -83,7 +83,7 @@
 
 </td>
 </tr>
-</table>---
+</table>
 
 ## 🌐 Connect With Me
 <p align="left">
