@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/Python-4F6D9A?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C++-4F6D9A?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4F6D9A?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-4F6D9A?style=for-the-badge&logo=javascript&logoColor=white">
 
 </td>
 </tr>
@@ -80,6 +79,7 @@
 <img src="https://img.shields.io/badge/OOP-34495E?style=for-the-badge">
 <img src="https://img.shields.io/badge/DBMS-34495E?style=for-the-badge">
 <img src="https://img.shields.io/badge/Computer_Networks-34495E?style=for-the-badge">
+<img src="https://img.shields.io/badge/OS-34495E?style=for-the-badge">
 
 </td>
 </tr>
